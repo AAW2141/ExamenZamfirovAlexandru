@@ -1,0 +1,20 @@
+{
+  "name": "examenzamfirovalexandru",
+  "version": "1.0.0",
+  "description": "Biletul #<9>. Acesta este un proiect pentru examen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAW2141/ExamenZamfirovAlexandru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAW2141/ExamenZamfirovAlexandru/issues"
+  },
+  "homepage": "https://github.com/AAW2141/ExamenZamfirovAlexandru#readme"
+}
